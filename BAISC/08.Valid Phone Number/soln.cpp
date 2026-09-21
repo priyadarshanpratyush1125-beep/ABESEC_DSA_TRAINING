@@ -1,4 +1,3 @@
-#include <iomanip> // pre reqiste---> fixed and setprecision()
 #include <bits/stdc++.h>
 using namespace std;
 
